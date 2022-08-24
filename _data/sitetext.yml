@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    #title: Welcome to my Website!
-    text: Michelle Jonelis, MD
+    title: Michelle Jonelis, MD
+    text: Lifestyle, Sleep and Circadian Medicine Physician
     button: Tell Me More
     buttonlink: "#services"
 
