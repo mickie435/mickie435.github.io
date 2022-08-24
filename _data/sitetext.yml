@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     #title: Michelle Jonelis, MD
-    text: Sleep Medicine 
+    text: Circadian Medicine 
     button: Tell Me More
     buttonlink: "#services"
 
