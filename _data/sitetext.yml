@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     #title: Michelle Jonelis, MD
-    text: Sleep & Circadian Medicine
+    text: Circadian Medicine
     button: Tell Me More
     buttonlink: "#services"
 
@@ -37,7 +37,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  #timeline:
+  timeline:
     title: "Timeline"
     text: "Lorem ipsum timeline"
     section: timeline
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-  #clients:
+  clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -92,7 +92,7 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  #team:
+  team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
