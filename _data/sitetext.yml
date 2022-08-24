@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Michelle Jonelis, MD
+    #title: Michelle Jonelis, MD
     text: Sleep Medicine Services
     button: Tell Me More
     buttonlink: "#services"
