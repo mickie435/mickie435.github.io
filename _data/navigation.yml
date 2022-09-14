@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Clinical"
       section: services
-    - title: "Portfolio"
+    - title: "Speaking"
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "Consulting"
       section: timeline
-    - title: "Team"
+    - title: "Blog"
       section: team
     - title: "Contact"
       section: contact
