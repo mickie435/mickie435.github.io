@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-bed #find more at https://fontawesome.com/icons
       - title: "Circadian Medicine"
         desc: "Circadian Medicine helps patients with unusual sleep/wake schedules or sleep schedules that do not match with their required work/school schedules. Circadian medicine also seeks to optimize the timing of daily activities and medical interventions to match the body’s internal clock. I will take a comprehensive look the timing of your activities and help you modify them as desired."
-        icon: fas fa-laptop
+        icon: fas fa-solid fa-sun
       - title: "Lifestyle Medicine"
         desc: "A mismatch between the world humans evolved to live in and our modern environment and habits is felt to contribute to at least 80% of modern medical illnesses. Lifestyle medicine seeks to help patients correct the root causes of these illnesses through improved diet, exercise, stress management, and social support. I will help you assess your existing lifestyle habits and we will create a plan together about how to improve them to achieve your desired health goals."
-        icon: fab fa-markdown
+        icon: fas fa-solid fa-carrot
 
   portfolio:
     title: "Speaking"
