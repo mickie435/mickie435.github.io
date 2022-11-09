@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Sleep Medicine"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "I am trained in both general Sleep medicine and Behavioral sleep medicine and treat the full spectrum of sleep disorders. I focus on using lifestyle and behavioral sleep medicine techniques as the first-line treatment for sleep-related disorders such as insomnia, hypersomnia, OSA, RLS, ADHD, fatigue, PASC/long-covid. I see both adults and children."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Circadian Medicine"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
