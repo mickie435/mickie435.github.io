@@ -38,8 +38,8 @@ en: &DEFAULT_EN
 I am also available as a consultant on sleep, circadian and lifestyle medicine topics. I have served as an advisor to tech companies, educational facilities and institutions seeking to improve sleep conditions. 
 
 Please contact me for availability."
-    section: portfolio
-    closebutton: "Close Project"
+    #section: portfolio
+    #closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
