@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Circadian Medicine helps patients with unusual sleep/wake schedules or sleep schedules that do not match with their required work/school schedules. Circadian medicine also seeks to optimize the timing of daily activities and medical interventions to match the body’s internal clock. I will take a comprehensive look the timing of your activities and help you modify them as desired."
         icon: fas fa-solid fa-sun
       - title: "Lifestyle Medicine"
-        desc: "A mismatch between the world humans evolved to live in and our modern environment and habits is felt to contribute to at least 80% of modern medical illnesses. Lifestyle medicine seeks to help patients correct the root causes of these illnesses through improved diet, exercise, stress management, and social support. I will help you assess your existing lifestyle habits and we will create a plan together about how to improve them to achieve your desired health goals."
+        desc: "At least 80% of chronic diseases could be prevented by adopting a healthier lifestyle. Lifestyle medicine helps patients address the root causes of these illnesses through improved diet, exercise, stress management, and social support. Together we will create a plan for how to improve your lifestyle to improve your health."
         icon: fas fa-solid fa-carrot
 
   portfolio:
