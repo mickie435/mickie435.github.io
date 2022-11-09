@@ -41,7 +41,7 @@ Please contact me for availability."
     section: #portfolio
     closebutton: #"Close Project"
 
-  timeline:
+  #timeline:
     title: #"Timeline"
     text: #"Lorem ipsum timeline"
     section: #timeline
@@ -79,7 +79,7 @@ Please contact me for availability."
     body: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."
     section: about
 
-  clients:
+  #clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -135,8 +135,8 @@ Please contact me for availability."
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: #"Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
