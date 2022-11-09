@@ -35,11 +35,11 @@ en: &DEFAULT_EN
     title: "Speaking and Consulting"
     text: "I am available to give talks on a variety of sleep and lifestyle medicine-related topics to physicians and the community. Prior speaking engagements have included corporate wellness webinars, Grand Rounds, talks for the local school district Board of Trustees, talks for local elementary, middle and high school students, talks for parents of school children, talks for medical trainees. 
 
-I am also available as a consultant on sleep, circadian and lifestyle medicine topics. I have served as an advisor to tech companies, educational facilities and institutions seeking to improve sleep conditions. 
+I provide consulting services regarding sleep, circadian and lifestyle medicine to technology start-ups, municipalities, schools, hospitals, nursing facilities and companies seeking to improve employee wellness and productivity.
 
 Please contact me for availability."
-    #section: portfolio
-    #closebutton: "Close Project"
+    section: portfolio
+    closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
@@ -73,9 +73,9 @@ Please contact me for availability."
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    #text: "our story"
+    body: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."
     section: about
 
   clients:
