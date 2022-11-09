@@ -32,8 +32,12 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-carrot
 
   portfolio:
-    title: "Speaking"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Speaking and Consulting"
+    text: "I am available to give talks on a variety of sleep and lifestyle medicine-related topics to physicians and the community. Prior speaking engagements have included corporate wellness webinars, Grand Rounds, talks for the local school district Board of Trustees, talks for local elementary, middle and high school students, talks for parents of school children, talks for medical trainees. 
+
+I am also available as a consultant on sleep, circadian and lifestyle medicine topics. I have served as an advisor to tech companies, educational facilities and institutions seeking to improve sleep conditions. 
+
+Please contact me for availability."
     section: portfolio
     closebutton: "Close Project"
 
