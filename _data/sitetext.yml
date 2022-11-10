@@ -47,7 +47,7 @@ Please contact me for availability."
     section: #timeline
     # left is the default
     #start_align: "left"
-    events:
+    #events:
       - title: #"Our Humble Beginnings"
         year: #"2009-2011"
         desc: #"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
@@ -102,7 +102,7 @@ Please contact me for availability."
     text: #"Lorem ipsum dolor sit amet consectetur."
     subtext: #Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: #team
-    people:
+    #people:
       - name: #"Kay Garland"
         role: #"Lead Designer"
         image: #assets/img/team/500x500.jpg
@@ -114,9 +114,9 @@ Please contact me for availability."
           - #url: https://linkedin.com
             #icon: fab fa-linkedin-in
       - #name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
+        #role: #"Lead Marketer"
+        #image: #assets/img/team/2.jpg
+        #social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
@@ -124,9 +124,9 @@ Please contact me for availability."
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - #name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
+        #role: "Lead Developer"
+        #image: assets/img/team/500x500.jpg
+        #social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
