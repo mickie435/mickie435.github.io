@@ -17,14 +17,14 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-    - title: "Consulting"
-      section: timeline
     - title: "Blog"
+      section: timeline
+    - title: "Book Appointment"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - #title: "Theme Source"
+      #url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
