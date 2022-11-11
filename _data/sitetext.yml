@@ -48,7 +48,6 @@ Please contact me for availability."
     # left is the default
     #start_align: "left"
     events: []
-    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Me"
