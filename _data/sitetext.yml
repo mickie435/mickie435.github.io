@@ -128,7 +128,7 @@ es: &DEFAULT_ES
     text: "Lorem ipsum timeline"
     section: cronologia
     # left is the default
-    #start_align: "left"
+    start_align: "left"
     events:
       - title: "Nuestro Humilde Comienzo"
         year: "2009-2011"
