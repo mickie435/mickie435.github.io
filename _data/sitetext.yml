@@ -38,13 +38,13 @@ en: &DEFAULT_EN
 I provide consulting services regarding sleep, circadian and lifestyle medicine to technology start-ups, municipalities, schools, hospitals, nursing facilities and companies seeking to improve employee wellness and productivity.
 
 Please contact me for availability."
-    section: #portfolio
+    section: portfolio
     closebutton: #"Close Project"
 
   timeline:
     title: "BLOG"
     text: #"Lorem ipsum timeline"
-    section: #timeline
+    section: timeline
     # left is the default
     start_align: "left"
     #events:
@@ -75,6 +75,7 @@ Please contact me for availability."
   about:
     title: "About Me"
     #text: "our story"
+    image: assets/img/team/500x500.jpg
     body: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."
     section: about
 
