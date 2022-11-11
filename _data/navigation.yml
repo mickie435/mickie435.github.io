@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "Blog"
       section: timeline
     - title: "Book Appointment"
       section: team

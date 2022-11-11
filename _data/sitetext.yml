@@ -42,8 +42,8 @@ Please contact me for availability."
     closebutton: #"Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Blog"
+    text: "[Michelle on Medium](https://michelle-jonelis.medium.com)"
     section: timeline
     # left is the default
     #start_align: "left"
