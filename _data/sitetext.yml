@@ -16,13 +16,14 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  Clinical:
+  services:
     title: "Clinical"
-    section: clinical
+    #text: "Lorem ipsum"
+    section: services
     list:
       - title: "Sleep Medicine"
         desc: "I am trained in both general Sleep Medicine and Behavioral Sleep Medicine and treat the full spectrum of sleep disorders. I focus on using lifestyle and behavioral sleep medicine techniques as the first-line treatment for sleep-related disorders such as insomnia, hypersomnia, OSA, RLS, ADHD, fatigue, PASC/long-covid. I see both adults and children."
-        icon: fas fa-solid fa-bed
+        icon: fas fa-solid fa-bed #find more at https://fontawesome.com/icons
       - title: "Circadian Medicine"
         desc: "Circadian Medicine helps patients with unusual sleep/wake schedules or sleep schedules that do not match with their required work/school schedules. Circadian medicine also seeks to optimize the timing of daily activities and medical interventions to match the body’s internal clock. I will take a comprehensive look the timing of your activities and help you modify them as desired."
         icon: fas fa-solid fa-sun
@@ -30,14 +31,14 @@ en: &DEFAULT_EN
         desc: "At least 80% of chronic diseases could be prevented by adopting a healthier lifestyle. Lifestyle medicine helps patients address the root causes of these illnesses through improved diet, exercise, stress management, and social support. Together we will create a plan for how to improve your lifestyle to improve your health."
         icon: fas fa-solid fa-carrot
 
-  speaking:
+  portfolio:
     title: "Speaking and Consulting"
     text: "I am available to give talks on a variety of sleep and lifestyle medicine-related topics to physicians and the community. Prior speaking engagements have included corporate wellness webinars, Grand Rounds, talks for the local school district Board of Trustees, talks for local elementary, middle and high school students, talks for parents of school children, talks for medical trainees. 
 
 I provide consulting services regarding sleep, circadian and lifestyle medicine to technology start-ups, municipalities, schools, hospitals, nursing facilities and companies seeking to improve employee wellness and productivity.
 
 Please contact me for availability."
-    section: speaking
+    section: portfolio
     closebutton: #"Close Project"
 
 
@@ -48,12 +49,12 @@ Please contact me for availability."
     body: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."
     section: about
 
-  appointment:
+  team:
     title: "SCHEDULE AN APPOINTMENT"
     url: https://www.redwoodpulmonary.net/contact-us.html
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: appointment
+    section: team
 
   contact:
     title: "Contact Me"
