@@ -38,15 +38,15 @@ en: &DEFAULT_EN
 I provide consulting services regarding sleep, circadian and lifestyle medicine to technology start-ups, municipalities, schools, hospitals, nursing facilities and companies seeking to improve employee wellness and productivity.
 
 Please contact me for availability."
-    section: portfolio
-    closebutton: "Close Project"
+    section: #portfolio
+    closebutton: #"Close Project"
 
   timeline:
     title: "BLOG"
     text: #"Lorem ipsum timeline"
     section: #timeline
     # left is the default
-    #start_align: "left"
+    start_align: "left"
     #events:
       - #title: #"Our Humble Beginnings"
         #year: #"2009-2011"
@@ -69,7 +69,7 @@ Please contact me for availability."
         #image: #assets/img/timeline/4.jpg
         #alt:
         # you can enforce the alignment
-        #align: #right
+        align: #right
     end: #"Be Part <br> of Our <br> Story!"
 
   about:
