@@ -43,8 +43,7 @@ Please contact me for availability."
 
   timeline:
     title: "Blog"
-    text: ""
-    body: "[Michelle on Medium](https://michelle-jonelis.medium.com)"
+    text: "hello"
     section: timeline
     # left is the default
     #start_align: "left"
