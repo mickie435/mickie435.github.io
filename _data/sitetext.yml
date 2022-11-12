@@ -50,9 +50,9 @@ Please contact me for availability."
     events: []
 
   about:
-    title: "[Blog](https://michelle-jonelis.medium.com)"
+    title: "Blog"
     image: assets/img/team/500x500.jpg
-    #body: "[Michelle's Blog](https://michelle-jonelis.medium.com)"
+    #body: "Please check out my [blog](https://michelle-jonelis.medium.com)!"
     section: about
 
   team:
