@@ -15,9 +15,9 @@ en: &DEFAULT_EN
       section: services
     - title: "Speaking"
       section: portfolio
-    - title: "About"
-      section: about
     - title: "Blog"
+      section: about
+    - title: "About"
       section: timeline
     - title: "Book Appointment"
       section: team
