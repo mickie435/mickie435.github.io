@@ -42,8 +42,8 @@ Please contact me for availability."
     closebutton: #"Close Project"
 
   timeline:
-    title: "About"
-    text: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."
+    title: "Schedule an Appointment"
+    text: "Please go [here](https://redwoodpulmonary.net/contact-us.html) to schedule an appointment."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -56,11 +56,12 @@ Please contact me for availability."
     section: about
 
   team:
-    title: "SCHEDULE AN APPOINTMENT"
-    url: https://www.redwoodpulmonary.net/contact-us.html
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "About Michelle"
+    text: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."
     section: team
+    people:
+      - name: "Michelle Jonelis, MD"
+        image: assets/img/team/1.jpg
 
   contact:
     title: "Contact Me"
