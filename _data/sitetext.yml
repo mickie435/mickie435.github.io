@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     #title: Michelle Jonelis, MD
     text: Lifestyle Sleep Medicine 
-    button: Tell Me More
-    buttonlink: "#services"
+    #button: Tell Me More
+    #buttonlink: "#services"
 
   services:
     title: "Clinical"
