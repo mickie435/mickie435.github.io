@@ -52,7 +52,7 @@ Please contact me for availability."
   about:
     title: "Blog"
     image: assets/img/team/500x500.jpg
-    body: "[Michelle's Blog](https://michelle-jonelis.medium.com)"
+    #body: "[Michelle's Blog](https://michelle-jonelis.medium.com)"
     section: about
 
   team:
