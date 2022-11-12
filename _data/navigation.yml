@@ -21,8 +21,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Book Appointment"
       section: team
-    - title: "Contact"
-      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:
