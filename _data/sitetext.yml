@@ -47,11 +47,12 @@ en: &DEFAULT_EN
   about:
     title: "Useful Links"
     body: "[4-7-8 Breathing](https://www.youtube.com/watch?v=gz4G31LGyog)"
+    text: "[Box Breathing](https://www.youtube.com/watch?v=FJJazKtH_9I )"
     section: about
 
   contact:
     title: "Contact Me"
-    text: "Lorem ipsum or call 123456789"
+    #text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
