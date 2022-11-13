@@ -13,9 +13,9 @@ en: &DEFAULT_EN
   nav:
     - title: "Clinical"
       section: services
-    - title: "Buncha Stuff"
+    - title: "About"
       section: portfolio
-    - title: "About Michelle"
+    - title: "Links"
       section: about
     - title: "Speaking and Consulting"
       section: timeline
