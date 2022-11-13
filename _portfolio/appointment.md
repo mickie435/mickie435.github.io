@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Appointments
 subtitle: Book time with me!
-image: assets/img/portfolio/01-full.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/Book-an-Appointment.jpg
 alt: appointment
 
 ---
