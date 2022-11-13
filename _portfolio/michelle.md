@@ -1,14 +1,14 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Michelle Jonelis, MD
+  subtitle: Sleep and Lifestyle Medicine Physician
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: Michelle Jonelis, MD
+subtitle: Sleep and Lifestyle Medicine Physician
+image: assets/img/portfolio/01-full.jpg
+alt: here is some alt test
 
 ---
 Use this area to describe your project. **Markdown** supported.
