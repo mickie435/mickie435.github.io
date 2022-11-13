@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Blog
   subtitle: Read my posts at Medium
-  thumbnail: assets/img/portfolio/mediumcrop.jpg
+  thumbnail: assets/img/portfolio/mediumcrop2.jpg
   
 #what displays when the item is clicked:
 title: Blog
