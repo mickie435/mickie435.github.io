@@ -51,11 +51,6 @@ Please contact me for availability."
     events: []
     end: "<a href='https://redwoodpulmonary.net/contact-us.html' style='color: black'>Schedule Appointment</a>"
 
-  about:
-    title: "Blog"
-    body: "Please check out my [blog](https://michelle-jonelis.medium.com)!"
-    section: about
-
   team:
     title: "About Michelle"
     text: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."

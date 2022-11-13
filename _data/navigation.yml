@@ -15,8 +15,6 @@ en: &DEFAULT_EN
       section: services
     - title: "Speaking"
       section: portfolio
-    - title: "Blog"
-      section: about
     - title: "Book Appointment"
       section: timeline
     - title: "About Michelle"
