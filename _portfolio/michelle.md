@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: Michelle Jonelis, MD
 subtitle: Sleep and Lifestyle Medicine Physician
 image: assets/img/portfolio/01-full.jpg
-alt: here is some alt test
+alt: about Michelle
 
 ---
 Use this area to describe your project. **Markdown** supported.
