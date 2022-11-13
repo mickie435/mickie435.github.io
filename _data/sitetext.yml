@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     #title: Michelle Jonelis, MD
-    text: Lifestyle Sleep Medicine 
+    text: Sleep, Circadian and Lifestyle Medicine 
     #button: Tell Me More
     #buttonlink: "#services"
 
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-carrot
 
   portfolio:
-    title: "A Section Title"
+    title: "About"
     section: portfolio
     closebutton: "Close"
 
@@ -45,8 +45,8 @@ en: &DEFAULT_EN
     events: []
 
   about:
-    title: "About Michelle"
-    body: "Dr. Michelle Jonelis is Board Certified in Sleep Medicine, Behavioral Sleep Medicine and Lifestyle Medicine. She grew up in the San Francisco Bay Area and attended UCSF and Stanford for her medical training."
+    title: "Useful Links"
+    body: "[4-7-8 Breathing](https://www.youtube.com/watch?v=gz4G31LGyog)
     section: about
 
   contact:
