@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Michelle Jonelis, MD
+  title: About Michelle
   subtitle: Sleep and Lifestyle Medicine Physician
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/casualmbjshort.jpg
   
 #what displays when the item is clicked:
-title: Michelle Jonelis, MD
+title: Michelle Jonelis, MD, DBSM
 subtitle: Sleep and Lifestyle Medicine Physician
 image: assets/img/portfolio/01-full.jpg
 alt: about Michelle
