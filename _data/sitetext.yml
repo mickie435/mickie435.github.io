@@ -44,6 +44,7 @@ Please contact me for availability."
   timeline:
     title: "Schedule an Appointment"
     text: "Please go [here](https://redwoodpulmonary.net/contact-us.html) to schedule an appointment."
+    body: "Please go [here](https://redwoodpulmonary.net/contact-us.html) to schedule an appointment."
     section: timeline
     # left is the default
     #start_align: "left"
