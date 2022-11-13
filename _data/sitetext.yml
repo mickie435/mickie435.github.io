@@ -49,7 +49,7 @@ Please contact me for availability."
     # left is the default
     #start_align: "left"
     events: []
-    end: "Please go [here](https://redwoodpulmonary.net/contact-us.html) to schedule an appointment."
+    end: "<a href='https://redwoodpulmonary.net/contact-us.html'>Schedule Appointment</a>"
 
   about:
     title: "Blog"
