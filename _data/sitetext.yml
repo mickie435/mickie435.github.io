@@ -46,7 +46,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Useful Links"
-    body: "[4-7-8 Breathing](https://www.youtube.com/watch?v=gz4G31LGyog)
+    body: "[4-7-8 Breathing](https://www.youtube.com/watch?v=gz4G31LGyog)"
     section: about
 
   contact:
