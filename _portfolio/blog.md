@@ -11,4 +11,4 @@ title: Blog
 alt: blog
 
 ---
-Read my posts at [Medium](https://michelle-jonelis.medium.com/) #Use this area to describe your project. **Markdown** supported.
+Read my posts at [Medium](https://michelle-jonelis.medium.com/) 
