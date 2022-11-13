@@ -13,14 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "Clinical"
       section: services
-    - title: "Speaking"
+    - title: "Buncha Stuff"
       section: portfolio
-    - title: "Blog"
-      section: about
-    - title: "Book Appointment"
-      section: timeline
     - title: "About Michelle"
-      section: team
+      section: about
+    - title: "Speaking and Consulting"
+      section: timeline
     - title: "Contact"
       section: contact
 en-US:
