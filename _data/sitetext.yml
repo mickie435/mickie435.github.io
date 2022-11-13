@@ -51,8 +51,8 @@ Please contact me for availability."
 
   about:
     title: "Blog"
-    image: assets/img/team/1.jpg
     body: "Please check out my [blog](https://michelle-jonelis.medium.com)!"
+    text: "this is some text"
     section: about
 
   team:
