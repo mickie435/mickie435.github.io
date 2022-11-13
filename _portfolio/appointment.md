@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Appointments
   subtitle: Book time with me!
-  thumbnail: assets/img/portfolio/Book-an-Appointment.jpg
+  thumbnail: assets/img/portfolio/planner.jpeg
   
 #what displays when the item is clicked:
 title: Appointments
