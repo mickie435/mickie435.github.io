@@ -40,7 +40,7 @@ I provide consulting services regarding sleep, circadian and lifestyle medicine 
 
 Please contact me for availability."
     section: portfolio
-    closebutton: #"Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Schedule an Appointment"
