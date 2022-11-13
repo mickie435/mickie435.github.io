@@ -49,7 +49,6 @@ Please contact me for availability."
     # left is the default
     #start_align: "left"
     events: []
-    end: "<a href='https://redwoodpulmonary.net/contact-us.html' style='color: black'>Schedule Appointment</a>"
 
   about:
     title: "About Michelle"
