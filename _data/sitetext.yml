@@ -38,7 +38,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Speaking and Consulting"
-    text: "I am available to give talks on a variety of sleep and lifestyle medicine-related topics to physicians and the community. Prior speaking engagements have included corporate wellness webinars, Grand Rounds, talks for the local school district Board of Trustees, talks for local elementary, middle and high school students, talks for parents of school children, talks for medical trainees.<br>I provide consulting services regarding sleep, circadian and lifestyle medicine to technology start-ups, municipalities, schools, hospitals, nursing facilities and companies seeking to improve employee wellness and productivity. Please contact me for availability."
+    text: "I am available to give talks on a variety of sleep and lifestyle medicine-related topics to physicians and the community. Prior speaking engagements have included corporate wellness webinars, Grand Rounds, talks for the local school district Board of Trustees, talks for local elementary, middle and high school students, talks for parents of school children, talks for medical trainees.<br/>I provide consulting services regarding sleep, circadian and lifestyle medicine to technology start-ups, municipalities, schools, hospitals, nursing facilities and companies seeking to improve employee wellness and productivity. Please contact me for availability."
     section: timeline
     # left is the default
     #start_align: "left"
