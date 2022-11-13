@@ -47,7 +47,8 @@ en: &DEFAULT_EN
   about:
     title: "Useful Links"
     body: "[4-7-8 Breathing](https://www.youtube.com/watch?v=gz4G31LGyog)"
-    text: "[Box Breathing](https://www.youtube.com/watch?v=FJJazKtH_9I )"
+    "[Box Breathing](https://www.youtube.com/watch?v=FJJazKtH_9I )"
+    text: "Below are some links I frequently reference in my clinical practice"
     section: about
 
   contact:
