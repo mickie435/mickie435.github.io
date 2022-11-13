@@ -17,9 +17,9 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Blog"
       section: about
-    - title: "About"
-      section: timeline
     - title: "Book Appointment"
+      section: timeline
+    - title: "About Michelle"
       section: team
     - title: "Contact"
       section: contact
