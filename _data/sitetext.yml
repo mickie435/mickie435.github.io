@@ -43,6 +43,7 @@ Please contact me for availability."
 
   timeline:
     title: "Schedule an Appointment"
+    text: "some text to make sure it doesn't say 'timeline'"
     section: timeline
     # left is the default
     #start_align: "left"
