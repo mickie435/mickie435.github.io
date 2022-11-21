@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Sleep Medicine"
-        desc: "I am trained in both general Sleep Medicine and Behavioral Sleep Medicine and treat the full spectrum of sleep disorders. I focus on using lifestyle and behavioral sleep medicine techniques as the first-line treatment for sleep-related disorders such as insomnia, hypersomnia, OSA, RLS, ADHD, fatigue, PASC/long-covid. I see both adults and children."
+        desc: "I focus on using lifestyle and behavioral sleep medicine techniques as the first-line treatment for sleep-related disorders such as insomnia, hypersomnia, OSA, RLS, ADHD, fatigue, PASC/long-covid. I also specialize in treating sleep problems related to underlying neurologic disease, such as Parkinson's disease and neurodevelopmental disorders. I see both adults and children."
         icon: fas fa-solid fa-bed #find more at https://fontawesome.com/icons
       - title: "Circadian Medicine"
         desc: "Circadian Medicine helps patients with unusual sleep/wake schedules or sleep schedules that do not match with their required work/school schedules. Circadian medicine also seeks to optimize the timing of daily activities and medical interventions to match the body’s internal clock. I will take a comprehensive look the timing of your activities and help you modify them as desired."
         icon: fas fa-solid fa-sun
       - title: "Lifestyle Medicine"
-        desc: "At least 80% of chronic diseases could be prevented by adopting a healthier lifestyle. Lifestyle medicine helps patients address the root causes of these illnesses through improved diet, exercise, stress management, and social support. Together we will create a plan for how to improve your lifestyle to improve your health."
+        desc: "At least 80% of chronic diseases could be prevented by adopting a healthier lifestyle. Lifestyle medicine helps patients address the root causes of these illnesses through improved diet, exercise, stress management, avoidance of risky substances and social support. Together we will create a plan for how to improve your lifestyle to improve your health."
         icon: fas fa-solid fa-carrot
 
   portfolio:
